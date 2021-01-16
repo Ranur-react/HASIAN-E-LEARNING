@@ -22,15 +22,20 @@
 
 		http://localhost/HASIAN-E-LEARNING/
 
-##Tutorial Uplod ke Github
+6. Pastikan database file Website ini sudah ada di dalam DBMS/ Mysql Yoq  kamu agar tidak eror.
+		 Jika belum silahkan impor ya ...
+file nya di sini dengan nama _db_elerning.sql_
 
-1. Inisiai user
+
+7. Ketikan dua baris kode berikut sebagai Inisiai user
 
 		git config --global user.name "Ranur-react"
 		git config --global user.email "rahmatnur845@gmail.com"
 
+*Gunakan akun mu ya kalo kamu punya akun sendiri*
 
 
+##Tutorial Uplod ke Github
 1. Cek kondisi status perubahan Prj.
 
 		git status
