@@ -13,7 +13,7 @@
 
 -->pastikan sudah berada pada folder htdoc pada xamp sesuai intruksi nomor *2*
 
-4. sekarang Files and folders sudah kita clonning dan masuk ke folder xamp kita
+4. sekarang Files and folders sudah berhasil kita _clonning_ dan masuk ke folder xamp kita
     "Sekarang" coba masuk ke folder hasil *Clonning* tadi dengan perintah berikut:
 
     	cd HASIAN-E-LEARNING
