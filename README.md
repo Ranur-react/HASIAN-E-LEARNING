@@ -18,6 +18,9 @@
 
     	cd HASIAN-E-LEARNING
 		
+5. Silahkan kamu ketik di Url bar _browser firefox/Chorome_ kamu alamat xamp server kamu dengan url berikut:
+
+		http://localhost/HASIAN-E-LEARNING/
 
 ##Tutorial Uplod ke Github
 
