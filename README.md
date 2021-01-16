@@ -1,3 +1,18 @@
+#Clone repository ke folder Xamp
+1. Buka cmd dengan perintah "Windows + R" lalu ketik 
+		
+		cmd
+
+2. Pada _Command Promt_ ketik
+
+		cd C:\xampp\htdocs
+
+3. lalu tuliskan perintah **dibawah berikut** untuk mengambil repository Public yang di posting di Github dengan melihat pada tombol _code_ warna Hijau kanan atas sebagai referensi link clone nya
+
+		git clone https://github.com/Ranur-react/HASIAN-E-LEARNING.git
+
+-->pastikan sudah berada pada folder htdoc pada xamp sesuai intruksi nomor 2
+
 ##Tutorial Uplod ke Github
 
 1. Inisiai user
